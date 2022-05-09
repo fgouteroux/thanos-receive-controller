@@ -1,0 +1,9 @@
+[
+  {
+    "endpoints": [
+      "thanos-receiver1.local.net:10901",
+      "thanos-receiver2.local.net:10901",
+      "thanos-receiver3.local.net:10901"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+  	"hashring": "hashring0",
+    "endpoints": [
+      "thanos-receiver1.local.net:10901",
+      "thanos-receiver2.local.net:10901",
+      "thanos-receiver3.local.net:10901"
+    ],
+    "tenants": ["foo", "bar"]
+  },
+  {
+  	"hashring": "hashring1",
+    "endpoints": [
+      "thanos-receiver4.local.net:10901",
+      "thanos-receiver5.local.net:10901",
+      "thanos-receiver6.local.net:10901"
+    ],
+    "tenants": ["baz"]
+  }
+]
